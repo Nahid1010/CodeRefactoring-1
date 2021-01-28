@@ -5,7 +5,7 @@
 * Used semantic elements instead of div, such as footer, nav and header
 * Added alt attributes to img elements when image is unable to display
 * Added meta elements in <head /> for website description
-* used id insead of classes for some elements. Why?
+* used id insead of classes for some elements. 
 
 
-GitHub link ()
+GitHub link (https://sergey-ddbug.github.io/MyFirstHomeWork/)
